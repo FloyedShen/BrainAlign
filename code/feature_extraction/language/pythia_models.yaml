@@ -1,0 +1,864 @@
+- pythia-70m-deduped_step0:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step0
+    revision: step0
+- pythia-160m-deduped_step0:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step0
+    revision: step0
+- pythia-410m-deduped_step0:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step0
+    revision: step0
+- pythia-1b-deduped_step0:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step0
+    revision: step0
+- pythia-1.4b-deduped_step0:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step0
+    revision: step0
+- pythia-2.8b-deduped_step0:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step0
+    revision: step0
+- pythia-6.9b-deduped_step0:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step0
+    revision: step0
+- pythia-12b-deduped_step0:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step0
+    revision: step0
+- pythia-70m-deduped_step1:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step1
+    revision: step1
+- pythia-160m-deduped_step1:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step1
+    revision: step1
+- pythia-410m-deduped_step1:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step1
+    revision: step1
+- pythia-1b-deduped_step1:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step1
+    revision: step1
+- pythia-1.4b-deduped_step1:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step1
+    revision: step1
+- pythia-2.8b-deduped_step1:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step1
+    revision: step1
+- pythia-6.9b-deduped_step1:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step1
+    revision: step1
+- pythia-12b-deduped_step1:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step1
+    revision: step1
+- pythia-70m-deduped_step2:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step2
+    revision: step2
+- pythia-160m-deduped_step2:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step2
+    revision: step2
+- pythia-410m-deduped_step2:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step2
+    revision: step2
+- pythia-1b-deduped_step2:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step2
+    revision: step2
+- pythia-1.4b-deduped_step2:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step2
+    revision: step2
+- pythia-2.8b-deduped_step2:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step2
+    revision: step2
+- pythia-6.9b-deduped_step2:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step2
+    revision: step2
+- pythia-12b-deduped_step2:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step2
+    revision: step2
+- pythia-70m-deduped_step4:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step4
+    revision: step4
+- pythia-160m-deduped_step4:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step4
+    revision: step4
+- pythia-410m-deduped_step4:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step4
+    revision: step4
+- pythia-1b-deduped_step4:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step4
+    revision: step4
+- pythia-1.4b-deduped_step4:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step4
+    revision: step4
+- pythia-2.8b-deduped_step4:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step4
+    revision: step4
+- pythia-6.9b-deduped_step4:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step4
+    revision: step4
+- pythia-12b-deduped_step4:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step4
+    revision: step4
+- pythia-70m-deduped_step8:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step8
+    revision: step8
+- pythia-160m-deduped_step8:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step8
+    revision: step8
+- pythia-410m-deduped_step8:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step8
+    revision: step8
+- pythia-1b-deduped_step8:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step8
+    revision: step8
+- pythia-1.4b-deduped_step8:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step8
+    revision: step8
+- pythia-2.8b-deduped_step8:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step8
+    revision: step8
+- pythia-6.9b-deduped_step8:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step8
+    revision: step8
+- pythia-12b-deduped_step8:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step8
+    revision: step8
+- pythia-70m-deduped_step32:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step32
+    revision: step32
+- pythia-160m-deduped_step32:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step32
+    revision: step32
+- pythia-410m-deduped_step32:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step32
+    revision: step32
+- pythia-1b-deduped_step32:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step32
+    revision: step32
+- pythia-1.4b-deduped_step32:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step32
+    revision: step32
+- pythia-2.8b-deduped_step32:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step32
+    revision: step32
+- pythia-6.9b-deduped_step32:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step32
+    revision: step32
+- pythia-12b-deduped_step32:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step32
+    revision: step32
+- pythia-70m-deduped_step64:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step64
+    revision: step64
+- pythia-160m-deduped_step64:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step64
+    revision: step64
+- pythia-410m-deduped_step64:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step64
+    revision: step64
+- pythia-1b-deduped_step64:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step64
+    revision: step64
+- pythia-1.4b-deduped_step64:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step64
+    revision: step64
+- pythia-2.8b-deduped_step64:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step64
+    revision: step64
+- pythia-6.9b-deduped_step64:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step64
+    revision: step64
+- pythia-12b-deduped_step64:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step64
+    revision: step64
+- pythia-70m-deduped_step128:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step128
+    revision: step128
+- pythia-160m-deduped_step128:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step128
+    revision: step128
+- pythia-410m-deduped_step128:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step128
+    revision: step128
+- pythia-1b-deduped_step128:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step128
+    revision: step128
+- pythia-1.4b-deduped_step128:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step128
+    revision: step128
+- pythia-2.8b-deduped_step128:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step128
+    revision: step128
+- pythia-6.9b-deduped_step128:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step128
+    revision: step128
+- pythia-12b-deduped_step128:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step128
+    revision: step128
+- pythia-70m-deduped_step256:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step256
+    revision: step256
+- pythia-160m-deduped_step256:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step256
+    revision: step256
+- pythia-410m-deduped_step256:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step256
+    revision: step256
+- pythia-1b-deduped_step256:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step256
+    revision: step256
+- pythia-1.4b-deduped_step256:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step256
+    revision: step256
+- pythia-2.8b-deduped_step256:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step256
+    revision: step256
+- pythia-6.9b-deduped_step256:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step256
+    revision: step256
+- pythia-12b-deduped_step256:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step256
+    revision: step256
+- pythia-70m-deduped_step512:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step512
+    revision: step512
+- pythia-160m-deduped_step512:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step512
+    revision: step512
+- pythia-410m-deduped_step512:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step512
+    revision: step512
+- pythia-1b-deduped_step512:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step512
+    revision: step512
+- pythia-1.4b-deduped_step512:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step512
+    revision: step512
+- pythia-2.8b-deduped_step512:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step512
+    revision: step512
+- pythia-6.9b-deduped_step512:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step512
+    revision: step512
+- pythia-12b-deduped_step512:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step512
+    revision: step512
+- pythia-70m-deduped_step1000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step1000
+    revision: step1000
+- pythia-160m-deduped_step1000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step1000
+    revision: step1000
+- pythia-410m-deduped_step1000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step1000
+    revision: step1000
+- pythia-1b-deduped_step1000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step1000
+    revision: step1000
+- pythia-1.4b-deduped_step1000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step1000
+    revision: step1000
+- pythia-2.8b-deduped_step1000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step1000
+    revision: step1000
+- pythia-6.9b-deduped_step1000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step1000
+    revision: step1000
+- pythia-12b-deduped_step1000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step1000
+    revision: step1000
+- pythia-70m-deduped_step2000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step2000
+    revision: step2000
+- pythia-160m-deduped_step2000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step2000
+    revision: step2000
+- pythia-410m-deduped_step2000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step2000
+    revision: step2000
+- pythia-1b-deduped_step2000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step2000
+    revision: step2000
+- pythia-1.4b-deduped_step2000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step2000
+    revision: step2000
+- pythia-2.8b-deduped_step2000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step2000
+    revision: step2000
+- pythia-6.9b-deduped_step2000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step2000
+    revision: step2000
+- pythia-12b-deduped_step2000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step2000
+    revision: step2000
+- pythia-70m-deduped_step4000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step4000
+    revision: step4000
+- pythia-160m-deduped_step4000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step4000
+    revision: step4000
+- pythia-410m-deduped_step4000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step4000
+    revision: step4000
+- pythia-1b-deduped_step4000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step4000
+    revision: step4000
+- pythia-1.4b-deduped_step4000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step4000
+    revision: step4000
+- pythia-2.8b-deduped_step4000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step4000
+    revision: step4000
+- pythia-6.9b-deduped_step4000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step4000
+    revision: step4000
+- pythia-12b-deduped_step4000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step4000
+    revision: step4000
+- pythia-70m-deduped_step8000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step8000
+    revision: step8000
+- pythia-160m-deduped_step8000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step8000
+    revision: step8000
+- pythia-410m-deduped_step8000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step8000
+    revision: step8000
+- pythia-1b-deduped_step8000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step8000
+    revision: step8000
+- pythia-1.4b-deduped_step8000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step8000
+    revision: step8000
+- pythia-2.8b-deduped_step8000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step8000
+    revision: step8000
+- pythia-6.9b-deduped_step8000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step8000
+    revision: step8000
+- pythia-12b-deduped_step8000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step8000
+    revision: step8000
+- pythia-70m-deduped_step16000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step16000
+    revision: step16000
+- pythia-160m-deduped_step16000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step16000
+    revision: step16000
+- pythia-410m-deduped_step16000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step16000
+    revision: step16000
+- pythia-1b-deduped_step16000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step16000
+    revision: step16000
+- pythia-1.4b-deduped_step16000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step16000
+    revision: step16000
+- pythia-2.8b-deduped_step16000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step16000
+    revision: step16000
+- pythia-6.9b-deduped_step16000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step16000
+    revision: step16000
+- pythia-12b-deduped_step16000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step16000
+    revision: step16000
+- pythia-70m-deduped_step32000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step32000
+    revision: step32000
+- pythia-160m-deduped_step32000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step32000
+    revision: step32000
+- pythia-410m-deduped_step32000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step32000
+    revision: step32000
+- pythia-1b-deduped_step32000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step32000
+    revision: step32000
+- pythia-1.4b-deduped_step32000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step32000
+    revision: step32000
+- pythia-2.8b-deduped_step32000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step32000
+    revision: step32000
+- pythia-6.9b-deduped_step32000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step32000
+    revision: step32000
+- pythia-12b-deduped_step32000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step32000
+    revision: step32000
+- pythia-70m-deduped_step64000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step64000
+    revision: step64000
+- pythia-160m-deduped_step64000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step64000
+    revision: step64000
+- pythia-410m-deduped_step64000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step64000
+    revision: step64000
+- pythia-1b-deduped_step64000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step64000
+    revision: step64000
+- pythia-1.4b-deduped_step64000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step64000
+    revision: step64000
+- pythia-2.8b-deduped_step64000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step64000
+    revision: step64000
+- pythia-6.9b-deduped_step64000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step64000
+    revision: step64000
+- pythia-12b-deduped_step64000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step64000
+    revision: step64000
+- pythia-70m-deduped_step128000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-70m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-70m-deduped/step128000
+    revision: step128000
+- pythia-160m-deduped_step128000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-160m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-160m-deduped/step128000
+    revision: step128000
+- pythia-410m-deduped_step128000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-410m-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-410m-deduped/step128000
+    revision: step128000
+- pythia-1b-deduped_step128000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1b-deduped/step128000
+    revision: step128000
+- pythia-1.4b-deduped_step128000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-1.4b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-1.4b-deduped/step128000
+    revision: step128000
+- pythia-2.8b-deduped_step128000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-2.8b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-2.8b-deduped/step128000
+    revision: step128000
+- pythia-6.9b-deduped_step128000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-6.9b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-6.9b-deduped/step128000
+    revision: step128000
+- pythia-12b-deduped_step128000:
+    device_count: 1
+    in_arena: false
+    model_name: EleutherAI/pythia-12b-deduped
+    model_path: ../../language_model_train/pythia_models/pythia-12b-deduped/step128000
+    revision: step128000

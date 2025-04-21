@@ -1,0 +1,178 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "contents",
+  "dataset_size": 3361313,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/open-llm-leaderboard/contents@d3a2165b1db5b43c735ca0d57b514a7e5025a922/data/train-00000-of-00001.parquet": {
+      "num_bytes": 926683,
+      "checksum": null
+    }
+  },
+  "download_size": 926683,
+  "features": {
+    "eval_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Precision": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "T": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Weight type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Architecture": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Model": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "fullname": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Model sha": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Average \u2b06\ufe0f": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "Hub License": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Hub \u2764\ufe0f": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "#Params (B)": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "Available on the hub": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "MoE": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Flagged": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Chat Template": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "CO\u2082 cost (kg)": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "IFEval Raw": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "IFEval": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "BBH Raw": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "BBH": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "MATH Lvl 5 Raw": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "MATH Lvl 5": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "GPQA Raw": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "GPQA": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "MUSR Raw": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "MUSR": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "MMLU-PRO Raw": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "MMLU-PRO": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "Merged": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Official Providers": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Upload To Hub Date": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Submission Date": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Generation": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "Base Model": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 4287996,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 3361313,
+      "num_examples": 3834,
+      "dataset_name": "contents"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
