@@ -1,4 +1,4 @@
-# Brain-AI Alignment: Convergent Evolution Across Modalities, Scales, and Training Trajectories
+# Alignment Between Brains and AI: Evidence for Convergent Evolution Across Modalities, Scales and Training Trajectories
 
 This repository contains the official implementation for the paper "Alignment Between Brains and AI: Evidence for Convergent Evolution Across Modalities, Scales and Training Trajectories". 
 
