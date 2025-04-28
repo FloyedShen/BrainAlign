@@ -1,5 +1,7 @@
 # Alignment Between Brains and AI: Evidence for Convergent Evolution Across Modalities, Scales and Training Trajectories
 
+[![DOI](https://zenodo.org/badge/970151156.svg)](https://doi.org/10.5281/zenodo.15294893)
+
 This repository contains the official implementation for the paper "Alignment Between Brains and AI: Evidence for Convergent Evolution Across Modalities, Scales and Training Trajectories". 
 
 ![overview](./figures/overview.png)
