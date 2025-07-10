@@ -64,6 +64,11 @@ Key findings:
     pip install -r requirements.txt
     ```
 
+### Installation Time
+- Typical installation time: ~10-15 minutes on a standard desktop computer
+- Additional time for downloading models and datasets as needed
+
+
 ## Data Preparation
 
 There are two options for reproducing the results:
@@ -202,7 +207,7 @@ After alignment computation, collect results:
 
 ## Results Analysis
 
-The analysis scripts are located in `code/analysis/`. You need to modify `ROOT_DIR` in each script to point to your project root directory.
+The analysis scripts are located in `code/analysis/`. You need to modify `ROOT_DIR` in each script to point to your project root directory. Using precomputed results: ~5-10 minutes for basic analysis.
 
 ### Analysis Notebooks
 
